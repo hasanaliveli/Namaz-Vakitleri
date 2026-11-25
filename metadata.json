@@ -1,0 +1,6 @@
+{
+  "name": "Vakit - Türkiye Namaz Vakitleri",
+  "description": "81 il için Diyanet uyumlu namaz saatleri ve vakit çıkmasına 5 dakika kala uyarı veren mobil Android PWA uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
